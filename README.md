@@ -48,6 +48,11 @@ Here are some insights from the data analysis phase:
 ## 🖥️ Web App Preview
 The app allows users to input flower measurements (Sepal/Petal length and width) and get an instant prediction of the species along with a corresponding image.
 
+
+https://github.com/user-attachments/assets/bd4d3750-2f78-4f31-868d-4364e77b2528
+
+
+
 ## 📂 How to Run Locally
 1. Clone this repository.
 2. Install dependencies: `pip install -r requirements.txt`.
