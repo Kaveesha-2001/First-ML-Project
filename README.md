@@ -4,7 +4,7 @@ Welcome to my first End-to-End Machine Learning project! I built a model to iden
 
 ## 🚀 Live Demo
 You can try out the live web app here: 
-👉 **[Click Here to Predict Iris Flowers]https://iris-flower-kaveesha.streamlit.app/**
+👉 **https://iris-flower-kaveesha.streamlit.app/**
 
 ## ✨ Project Overview
 This project covers the entire ML pipeline:
@@ -30,14 +30,20 @@ Here are some insights from the data analysis phase:
 ![Iris Violin Plot](images/Violin%20Plot4.png)
 *Caption: This plot shows the density of sepal and petal measurements.*
 
+
 ![The Pairplot](images/Pair%20Plot.png)
 *Caption: Relationship between different features.*
 
+
 ![The Heatmap](images/Correlation%20Heatmap.png)
+
 *Caption: Highlighting the correlation between flower features.*
 
+
 ![Confusion Matrix](images/Confusion%20Matrix.png)
+
 *Caption: Visualizing the model's prediction accuracy.*
+
 
 ## 🖥️ Web App Preview
 The app allows users to input flower measurements (Sepal/Petal length and width) and get an instant prediction of the species along with a corresponding image.
